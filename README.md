@@ -25,8 +25,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
