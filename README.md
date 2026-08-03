@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1406-stone-game-iii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1406-stone-game-iii) |
+| [1920-build-array-from-permutation](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
