@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1920-build-array-from-permutation](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1406-stone-game-iii) |
 ## Counting Sort
 |  |
@@ -122,4 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0704-binary-search) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
