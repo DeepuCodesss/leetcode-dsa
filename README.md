@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0018-4sum) |
+| [0136-single-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1510-stone-game-iv) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
