@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1140-stone-game-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
