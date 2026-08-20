@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0182-duplicate-emails) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
