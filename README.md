@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0704-binary-search) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Minimax
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
