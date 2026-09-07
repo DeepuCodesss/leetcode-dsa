@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
