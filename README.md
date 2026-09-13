@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
