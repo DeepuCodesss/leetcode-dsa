@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0704-binary-search) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
