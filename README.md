@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
