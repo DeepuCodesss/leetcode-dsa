@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
