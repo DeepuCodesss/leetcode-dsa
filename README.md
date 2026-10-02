@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
