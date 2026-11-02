@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0704-binary-search) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0877-stone-game) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
