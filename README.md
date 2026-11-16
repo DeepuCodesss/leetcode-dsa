@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeepuCodesss/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
